@@ -24,15 +24,16 @@
 		<li>Kokey.Xeno</li>
 	</loadAfter>
 	<description><![CDATA[ 
-Facial Animation Patches for X.E.N.O by Kokey. Based on facial animation patches done by Vanilla Sky.
+Facial Animation Patches for X.E.N.O by Kokey.
 
-Pretty much finished, ears may need some adjustments.
+BnC currently breaks. I believe due to lifestages.
 ---
-Contains
+Contains:
 • Newman
 • High Newman
+• My Suffering
 
 
-Version <color=#FFD800>1.0.0</color>]]>
+Version <color=#FFD800>1.2.34</color>]]>
 	</description>
 </ModMetaData>

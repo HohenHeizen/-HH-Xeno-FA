@@ -4,11 +4,11 @@
 		<success>Always</success>
 	<operations>
 	<li Class="PatchOperationTest">
-		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENONewmanRace"]/comps</xpath>
+		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENOHighNewmanRace"]/comps</xpath>
 			<success>Invert</success>
 	</li>
 	<li Class="PatchOperationAdd">
-		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENONewmanRace"]</xpath>
+		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENOHighNewmanRace"]</xpath>
         <value>
           <comps />
         </value>
@@ -17,7 +17,7 @@
   </Operation>
 	
 	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENONewmanRace"]/comps</xpath>
+		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENOHighNewmanRace"]/comps</xpath>
 		<value>
 				<li><compClass>FacialAnimation.DrawFaceGraphicsComp</compClass></li>
 				<li><compClass>FacialAnimation.HeadControllerComp</compClass></li>
@@ -31,7 +31,7 @@
 	</Operation>	
 			
 	<Operation Class="PatchOperationReplace">
-			<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENONewmanRace"]/alienRace/generalSettings/alienPartGenerator/bodyAddons</xpath>
+			<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="XENOHighNewmanRace"]/alienRace/generalSettings/alienPartGenerator/bodyAddons</xpath>
 			<value>
 				<bodyAddons>
 						<li>
@@ -168,9 +168,3 @@
 				</value>
 		</Operation>
 </Patch>
-				
-						      
-								
-
-
-			  
