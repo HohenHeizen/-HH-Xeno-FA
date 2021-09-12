@@ -24,16 +24,17 @@
 		<li>Kokey.Xeno</li>
 	</loadAfter>
 	<description><![CDATA[ 
-Facial Animation Patches for X.E.N.O by Kokey.
+Patches for Facial Animations by Nals for X.E.N.O, a mod by Kokey.
 
-BnC currently breaks. I believe due to lifestages.
 ---
 Contains:
 • Newman
 • High Newman
 • My Suffering
 
+Todo: 
+Done?
 
-Version <color=#FFD800>1.2.34</color>]]>
+Version <color=#FFD800>1.3</color>]]>
 	</description>
 </ModMetaData>
